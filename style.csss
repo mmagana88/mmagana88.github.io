@@ -22,7 +22,7 @@ body {
 }
 
 .profile-img {
-  width: 220px;
+  width: 140px;
   height: auto;
   border-radius: 4px;
   margin-bottom: 24px;
